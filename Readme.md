@@ -4,6 +4,7 @@
 
 ## <a name="_8v3nnowp1w9j"></a>**Project name**
 FinGuard Prosthetics Initiative — Rescue & Rehab
+Presentation: https://docs.google.com/presentation/d/1KlyYHp2n-56v0-zd8dovI4sc8r3xjBh-Lt7MSrPT31s/edit?slide=id.p#slide=id.p
 ## <a name="_ybvs1m9i3ghi"></a>**Overview**
 
 We assist an inventor of hand prostheses to propose and privately sell prosthetic devices directly at incident locations, while partnering with specially trained lifeguards who provide immediate rescue and medical aid. Using shark-incident data (arm amputations only — complete removals), we identify geographic hotspots and seasonality to guide agent placement, lifeguard staffing, and required rescue equipment.
