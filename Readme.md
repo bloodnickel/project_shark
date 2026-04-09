@@ -13,7 +13,7 @@ Source: The International Shark Attack File (incident log)
 
 Link (source used in analysis):[ ](https://www.sharkattackfile.net/incidentlog.htm)<https://www.sharkattackfile.net/incidentlog.htm>
 
-Notebook: project\_SHARKS.ipynb (Google Colab)
+Notebook: project\_SHARKS.ipynb
 
 Note: This README focuses on incidents classified as "arm amputations (removed)" — injuries where the arm (hand/forearm) was removed, excluding injuries listed as “damaged” only.
 
