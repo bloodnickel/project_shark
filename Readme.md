@@ -15,5 +15,5 @@ Link (source used in analysis):[ ](https://www.sharkattackfile.net/incidentlog.h
 
 Notebook: project\_SHARKS.ipynb
 
-Note: This README focuses on incidents classified as "arm amputations (removed)" — injuries where the arm (hand/forearm) was removed, excluding injuries listed as “damaged” only.
+Note: This Project focuses on incidents classified as "arm amputations (removed)" — injuries where the arm (hand/forearm) was removed, excluding injuries listed as “damaged” only.
 
